@@ -1,0 +1,20 @@
+Title: RaceCar Game
+
+Name: Tanmay Vinayak Gatle
+MIS ID: 111508025
+ 
+Description:
+
+Firstly I made the basic outline of the game. I wanted the cars to scroll downwards from the top of the screen
+and the player car to move left or right at the bottom. The oncoming car positions were randomly generated.
+Then I made the backgroud scroll infinitely to give a sense of movement. Then I designed a main menu with play, quit
+buttons. I then used the SDL timer as the method for calculating the score. I displayed the score on the screen during 
+game time and the final score in the gameover screen. I added replay, return and quit buttons on the gameover screen.
+Then I made a settings option which has a "change difficulty" option which made the cars and background 
+move faster and also a "select background" option to give a sense of customizability. Then I added an info button which
+gives instructions regarding how to play the game. I added a "enter name" bar at gameover to give further customizability
+and a top five feature which the top five highscores along with player names at the corresponding difficulty.
+Then I added a jump functionality which allows the players car to jump over the oncoming car and avoid a collision.
+This required me to make multiple images and display them in sequence to create a small animation. I then applied a time limit 
+on the jump feature so that the player can only jump after a limited time.  		
+	
